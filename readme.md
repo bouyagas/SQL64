@@ -36,8 +36,13 @@ INSERT INTO Games(title, year, developers, genre) VALUES('Mario Party', 1998, 'H
 INSERT INTO Games(title, year, developers, genre) VALUES('Tony Hawk''s Pro Skater' , 1996, 'Neversoft', 'Extreme Sports');
 ```
 
+## Side Notes
+
+DON'T FORGET TO END EACH QUERY IN A SEMICOLON!! `;`
+
 ## Queries
 
+To receive full credit for this assignment, complete questions 1 through 7. Queries after that are a bonus!
 Use SQL queries to complete the following tasks. Copy these queries, and place them onto a file called "n64.sql" or similar (it MUST end in .sql). Upload this file to github, and hand it in via Google Classroom 
 
 1. Select the title of all games
